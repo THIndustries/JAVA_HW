@@ -1,0 +1,20 @@
+мая 20, 2023 8:02:31 PM Webinar003.ex02 main
+INFO: StringArray: [Ljava.lang.String;@654f0d9c
+мая 20, 2023 8:02:31 PM Webinar003.ex02 main
+INFO: mylist: [Венера, Земля, Уран, Нептун, Венера, Юпитер, Юпитер, Сатурн]
+мая 20, 2023 8:02:31 PM Webinar003.ex02 main
+INFO: res mylist: Меркурий0
+мая 20, 2023 8:02:31 PM Webinar003.ex02 main
+INFO: res mylist: Венера2
+мая 20, 2023 8:02:31 PM Webinar003.ex02 main
+INFO: res mylist: Земля1
+мая 20, 2023 8:02:31 PM Webinar003.ex02 main
+INFO: res mylist: Марс0
+мая 20, 2023 8:02:31 PM Webinar003.ex02 main
+INFO: res mylist: Юпитер2
+мая 20, 2023 8:02:31 PM Webinar003.ex02 main
+INFO: res mylist: Сатурн1
+мая 20, 2023 8:02:31 PM Webinar003.ex02 main
+INFO: res mylist: Уран1
+мая 20, 2023 8:02:31 PM Webinar003.ex02 main
+INFO: res mylist: Нептун1

@@ -1,0 +1,2 @@
+мая 20, 2023 11:16:15 AM foFun.Calculator calc
+INFO: 15.0 * 7.0 = 105.0

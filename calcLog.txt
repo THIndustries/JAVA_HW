@@ -1,0 +1,2 @@
+мая 20, 2023 7:53:40 PM foFun.Calculator calc
+INFO: 10.0 + 3.0 = 13.0

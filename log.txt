@@ -1,0 +1,26 @@
+мая 19, 2023 9:15:51 PM Webinar003.loggirovanie main
+INFO: element: 1
+мая 19, 2023 9:15:51 PM Webinar003.loggirovanie main
+INFO: element: 4
+мая 19, 2023 9:15:51 PM Webinar003.loggirovanie main
+INFO: element: 8
+мая 19, 2023 9:15:51 PM Webinar003.loggirovanie main
+INFO: element: 2
+мая 19, 2023 9:15:51 PM Webinar003.loggirovanie main
+INFO: element: 3
+мая 19, 2023 9:15:51 PM Webinar003.loggirovanie main
+INFO: element: 4
+мая 19, 2023 9:15:51 PM Webinar003.loggirovanie main
+INFO: element: 6
+мая 19, 2023 9:15:51 PM Webinar003.loggirovanie main
+INFO: element: 5
+мая 19, 2023 9:15:51 PM Webinar003.loggirovanie main
+INFO: element: 2
+мая 19, 2023 9:15:51 PM Webinar003.loggirovanie main
+INFO: element: 4
+мая 19, 2023 9:15:51 PM Webinar003.loggirovanie main
+WARNING: logger off
+мая 19, 2023 9:15:51 PM Webinar003.loggirovanie main
+INFO: test
+мая 19, 2023 9:15:51 PM Webinar003.loggirovanie main
+WARNING: logsPath
